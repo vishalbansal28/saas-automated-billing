@@ -1,0 +1,108 @@
+/* styles.css */
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.max-w {
+  max-width: 240px;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.signin-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("https://infotech.report/Images/Resources/b81984ad-b421-4a18-809e-a6e7fbc7a585_Resources_blog-image_INFOTECH.jpg"); /* Replace with your image URL */
+  /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+}
+
+.signin-content {
+  max-width: 300px;
+  width: 100%;
+}
+
+.signin-button-container {
+  margin-top: 20px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("https://infotech.report/Images/Resources/b81984ad-b421-4a18-809e-a6e7fbc7a585_Resources_blog-image_INFOTECH.jpg"); /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+}
+
+.home-content {
+  max-width: 600px;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.feature-section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.feature-item {
+  max-width: 300px;
+  width: 100%;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Semi-transparent white background */
+  color: #333; /* Text color */
+}
+
+.feature-item h2 {
+  color: #333; /* Heading color */
+}
+
+/* Add more styles as needed */
