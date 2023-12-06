@@ -59,13 +59,6 @@ cd billing123/backend
 **Install Dependencies:**
 npm install
 
-**Set Environment Variables:**
-Create a .env file in the backend directory.
-
-**Add the following environment variables:**
-MONGODB_URI=your_mongodb_connection_string
-PORT=5000 # or any desired port
-
 **Run the Backend:**
 node app.js
 
