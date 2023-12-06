@@ -1,0 +1,47 @@
+/* AppHeader.css */
+
+.AppHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #001529; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+  }
+  
+  .AppHeader img {
+    margin-right: 10px;
+  }
+  
+  .AppHeader .ant-typography {
+    color: #fff; /* Set your desired text color */
+  }
+  
+  .AppHeader .ant-badge-dot.comments-dot {
+    background-color: #a8b0b8; /* Set your desired color for the comments dot */
+  }
+  
+  .AppHeader .ant-badge-count.comments-count {
+    background-color: #18ff18; /* Set your desired background color for the comments count */
+    color: #fff; /* Set your desired text color for the comments count */
+  }
+  
+  .AppHeader .ant-badge-count.comments-count + .anticon {
+    color: #f3f4f6; /* Set your desired color for the comments icon */
+  }
+  
+  .AppHeader .ant-badge-dot.notifications-dot {
+    background-color: #f5222d; /* Set your desired color for the notifications dot */
+  }
+  
+  .AppHeader .ant-badge-count.notifications-count + .anticon {
+    color: #f5222d; /* Set your desired color for the notifications icon */
+  }
+  
+  .AppHeader .ant-list-item {
+    border-bottom: 1px solid #ddd; /* Set your desired border color */
+    padding: 10px;
+  }
+  
+  /* Add more styles as needed */
+  

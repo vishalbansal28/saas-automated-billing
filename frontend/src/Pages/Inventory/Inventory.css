@@ -1,0 +1,41 @@
+/* Inventory.css */
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .content-container {
+    display: flex;
+    flex: 1;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .profile-info {
+    margin-bottom: 20px;
+  }
+  
+  .saas-info {
+    margin-top: 20px;
+  }
+  
+  .saas-info h2 {
+    color: #1890ff;
+    margin-bottom: 10px;
+  }
+  
+  .saas-info h3 {
+    color: #1890ff;
+    margin-bottom: 10px;
+  }
+  
+  .saas-info p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  

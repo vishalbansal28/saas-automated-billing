@@ -1,0 +1,37 @@
+/* Orders.css */
+
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .SideMenuAndPageContent {
+    display: flex;
+    flex: 1;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .ant-table-wrapper {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #1890ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .explanation {
+    margin-top: 20px;
+  }
+  
+  /* Add more styles as needed */
+  

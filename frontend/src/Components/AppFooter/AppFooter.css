@@ -1,0 +1,20 @@
+/* AppFooter.css */
+
+.AppFooter {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f0f0f0; /* Set your desired background color */
+  }
+  
+  .footerLink {
+    margin-right: 15px;
+    color: #333; /* Set your desired text color */
+    text-decoration: none;
+    font-weight: bold; /* Adjust font weight as needed */
+  }
+  
+  .footerLink:hover {
+    color: #1890ff; /* Set your desired color for hover effect */
+  }
+  
