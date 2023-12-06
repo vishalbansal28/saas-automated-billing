@@ -33,10 +33,10 @@ This project is a SaaS billing platform that enables users to track usage data, 
 ### Frontend Deployment
 
 **Clone the Repository:**
-git clone https://github.com/your-username/billing123.git
+git clone https://github.com/your-username/saas-automated-billing.git
 
 **Navigate to the Frontend Directory:**
-cd billing123/frontend
+cd frontend
 
 **Install Dependencies:**
 npm install
@@ -53,7 +53,7 @@ Open your browser and go to http://localhost:3000.
 
 ### Backend Deployment
 **Navigate to the Backend Directory:**
-cd billing123/backend
+cd backend
 
 **Install Dependencies:**
 npm install
