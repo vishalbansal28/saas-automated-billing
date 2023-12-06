@@ -20,7 +20,7 @@ This project is a SaaS billing platform that enables users to track usage data, 
 
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB Cloud
 - **Authentication:** Google Firebase
 - **Additional Libraries:** Ant Design, Axios, jsPDF
 
