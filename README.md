@@ -28,7 +28,7 @@ This project is a SaaS billing platform that enables users to track usage data, 
 
 ### Prerequisites
 
-1. Node.js and npm installed on your machine.
+1. Node.js and npm are installed on your machine.
 2. MongoDB installed and running.
 
 ### Frontend Deployment
@@ -36,39 +36,40 @@ This project is a SaaS billing platform that enables users to track usage data, 
 **Clone the Repository:**
 git clone https://github.com/your-username/billing123.git
 
-Navigate to the Frontend Directory:
+**Navigate to the Frontend Directory:**
 cd billing123/frontend
-Install Dependencies:
+
+**Install Dependencies:**
 npm install
 
-Build the Frontend:
+**Build the Frontend:**
 npm run build
 
-Serve the Frontend:
+**Serve the Frontend:**
 npm install -g serve
 serve -s build
 
-Access the Frontend:
+**Access the Frontend:**
 Open your browser and go to http://localhost:3000.
 
 ### Backend Deployment
-Navigate to the Backend Directory:
+**Navigate to the Backend Directory:**
 cd billing123/backend
 
-Install Dependencies:
+**Install Dependencies:**
 npm install
 
-Set Environment Variables:
+**Set Environment Variables:**
 Create a .env file in the backend directory.
 
-Add the following environment variables:
+**Add the following environment variables:**
 MONGODB_URI=your_mongodb_connection_string
 PORT=5000 # or any desired port
 
-Run the Backend:
+**Run the Backend:**
 node app.js
 
-Access the API:
+**Access the API:**
 The backend API will be accessible at http://localhost:5000.
 
 Note
