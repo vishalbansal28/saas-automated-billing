@@ -1,6 +1,6 @@
 # SaaS Billing Platform
 
-[Project Image]([https://drive.google.com/file/d/18TeR2IMH8TpI0XzBab4Mee8iGQgIHZh1/view?usp=drive_link](https://drive.google.com/file/d/1Sj9znZTGLH7mQFb6p2X1SAVTLH49krWz/view?usp=sharing))
+[**Project Image**](https://drive.google.com/file/d/1Sj9znZTGLH7mQFb6p2X1SAVTLH49krWz/view?usp=sharing)
 
 ## Overview
 
