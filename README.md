@@ -39,7 +39,7 @@ npm install -g serve
 serve -s build
 
 Access the Frontend:
-Open your browser and go to http://localhost:5000.
+Open your browser and go to http://localhost:3000.
 
 ### Backend Deployment
 Navigate to the Backend Directory:
