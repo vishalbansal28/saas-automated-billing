@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a SaaS billing platform that enables users to track usage data, generate invoices, and receive email notifications. The application uses MongoDB for data storage, Google Firebase for authentication, and integrates with Zapier for email notifications.
+This project is a SaaS billing platform that enables users to track usage data, generate invoices, and receive email notifications. The application uses MongoDB Cloud for data storage, Google Firebase for authentication, and integrates with Zapier for email notifications.
 
 ## Pages
 
@@ -29,7 +29,6 @@ This project is a SaaS billing platform that enables users to track usage data, 
 ### Prerequisites
 
 1. Node.js and npm are installed on your machine.
-2. MongoDB installed and running.
 
 ### Frontend Deployment
 
