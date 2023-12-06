@@ -1,6 +1,6 @@
 # SaaS-Automated Billing and Dashboard
 
-![[Project Image](https://drive.google.com/file/d/18TeR2IMH8TpI0XzBab4Mee8iGQgIHZh1/view?usp=drive_link)]
+(https://drive.google.com/file/d/18TeR2IMH8TpI0XzBab4Mee8iGQgIHZh1/view?usp=drive_link)]
 
 ## Overview
 
